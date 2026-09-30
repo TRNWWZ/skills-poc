@@ -1,0 +1,3 @@
+Placeholder for a weather icon asset. In a real skill this directory would hold
+actual image files (PNG/SVG) the report could reference; a text placeholder is
+used here since this is a fake skill for local testing.
